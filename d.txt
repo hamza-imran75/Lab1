@@ -1,1 +1,1 @@
-This is three way merging in progress
+Merge conflit
